@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\bin\Debug\net6.0\Linq_DEMO.exe
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\bin\Debug\net6.0\Linq_DEMO.deps.json
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\bin\Debug\net6.0\Linq_DEMO.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\bin\Debug\net6.0\Linq_DEMO.dll
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\bin\Debug\net6.0\Linq_DEMO.pdb
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.dll
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\refint\Linq_DEMO.dll
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.pdb
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\Linq_DEMO.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Test Repos\Linq_DEMO\Linq_DEMO\obj\Debug\net6.0\ref\Linq_DEMO.dll
